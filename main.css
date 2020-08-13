@@ -1,0 +1,28 @@
+body{
+    font-family: 'Antic Slab', serif;
+}
+
+
+section {
+  background-color: red;
+}
+
+h1 {
+  color: white;
+  font-family: inherit;
+}
+
+
+#title h1 {
+    color: #000;
+}
+
+
+.sub-heading { 
+    color: grey;
+}
+
+ Id selector
+ class selector
+ element selector
+ universal selector
