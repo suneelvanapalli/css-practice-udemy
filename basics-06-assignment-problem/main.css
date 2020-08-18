@@ -1,10 +1,17 @@
 body {
   font-family: sans-serif;
+  margin: 0 px;
 }
 
-h1 {
+#assignment-instructions {
+  width: 700px;
+  height: 100%;
   font-family: sans-serif;
   color: blue;
+  padding: 20px;
+  background-color: red;
+  border: 5px black solid;
+  margin: 50px;
 }
 
 .second-code {
@@ -25,10 +32,7 @@ ol > li {
   color: white;
 }
 
-
-
 li + li {
-    background-color: black;
-    color: white;
-  }
-  
+  background-color: black;
+  color: white;
+}
