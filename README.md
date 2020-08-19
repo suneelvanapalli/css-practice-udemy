@@ -18,4 +18,10 @@ Different types of selectors
 - shorthand notation to specify multiple related properties
 - height and width: height is always relative to it's parent if we set in %
 
-# next
+# 19-08-2020
+
+- Block level element takes entire width of parent element. also equal to 100%
+- BEM pattern for css classes
+- setting up header styling, understanding difference between block level and inline element, changing the behaviour by using display property
+- display: inline-block will make block element inline but still retaining block element features like margin top and bottom
+

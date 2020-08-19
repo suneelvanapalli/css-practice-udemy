@@ -1,7 +1,10 @@
-body{
-    font-family: 'Antic Slab', serif;
+* {
+  box-sizing: border-box;
 }
 
+body {
+  font-family: 'Antic Slab', serif;
+}
 
 section {
   background-color: red;
@@ -12,14 +15,12 @@ h1 {
   font-family: inherit;
 }
 
-
 #title h1 {
-    color: #000;
+  color: #000;
 }
 
-
-.sub-heading { 
-    color: grey;
+.sub-heading {
+  color: grey;
 }
 
 /* 
@@ -28,5 +29,13 @@ h1 {
  element selector
  universal selector */
 
+.main-header {
+  padding: 10px;
+  background-color: #2ddf5c;
+  width: 100%;
+}
 
- 
+.main-nav__item {
+  display: inline-block;
+  padding: 20px;
+}
