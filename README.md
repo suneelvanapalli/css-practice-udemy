@@ -24,4 +24,4 @@ Different types of selectors
 - BEM pattern for css classes
 - setting up header styling, understanding difference between block level and inline element, changing the behaviour by using display property
 - display: inline-block will make block element inline but still retaining block element features like margin top and bottom
-
+- box-sizing: content-box means height specified is only applied to content, box-sizing : border-box will include content,padding and border for height.
