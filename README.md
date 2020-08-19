@@ -2,6 +2,14 @@
 
 This is practice project, will be developed following the css course in udemy
 
+# 17-08-2020
+Different types of selectors
+
+ - Id selector
+ - class selector
+ - element selector
+ - universal selector
+
 # 18/08/2020
 
 box-model: every element is a box
