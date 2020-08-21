@@ -11,7 +11,7 @@ Different types of selectors
 - element selector
 - universal selector
 
-# 18/08/2020
+# 18-08-2020
 
 - box-model: every element is a box
 - element content, padding, border, margin

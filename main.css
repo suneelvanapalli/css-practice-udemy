@@ -1,5 +1,5 @@
 * {
-  box-sizing: ;
+  box-sizing: border-box;
 }
 
 body {
@@ -35,7 +35,32 @@ h1 {
   width: 100%;
 }
 
+.main-header__brand {
+  color: #0e414f;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 22px;
+  vertical-align: middle;
+}
+
+.main-header > div {
+  display: inline-block;
+}
+
+.main-nav {
+  display: inline-block;
+  text-align: right;
+  width: calc(100% - 75px);
+  vertical-align: middle  ;
+}
+
 .main-nav__item {
   display: inline-block;
   padding: 20px;
+}
+
+.main-nav__items {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
 }
