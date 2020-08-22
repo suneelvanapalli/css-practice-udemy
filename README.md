@@ -25,3 +25,10 @@ Different types of selectors
 - setting up header styling, understanding difference between block level and inline element, changing the behaviour by using display property
 - display: inline-block will make block element inline but still retaining block element features like margin top and bottom
 - box-sizing: content-box means height specified is only applied to content, box-sizing : border-box will include content,padding and border for height.
+
+# (21-22)-08-2020
+
+- background image to the section
+- psudeo classes :hover :active to style a tags
+- difference between pseudo class and element element::after for pseudo element
+- grouping styles for sharing the rules

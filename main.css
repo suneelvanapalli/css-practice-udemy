@@ -6,8 +6,11 @@ body {
   font-family: 'Antic Slab', serif;
 }
 
-section {
-  background-color: red;
+#product-overview {
+  background: url('freedom.jpg');
+  width: 100%;
+  height: 528px;
+  padding: 10px;
 }
 
 h1 {
@@ -37,10 +40,13 @@ h1 {
 
 .main-header__brand {
   color: #0e414f;
-  text-decoration: none;
   font-weight: bold;
   font-size: 22px;
   vertical-align: middle;
+}
+
+.main-header__brand > a {
+  text-decoration: none;
 }
 
 .main-header > div {
@@ -51,12 +57,39 @@ h1 {
   display: inline-block;
   text-align: right;
   width: calc(100% - 75px);
-  vertical-align: middle  ;
+  vertical-align: middle;
 }
 
 .main-nav__item {
   display: inline-block;
-  padding: 20px;
+  margin: 0px 16px;
+}
+
+.main-nav__item > a {
+  text-decoration: none;
+  color: green;
+}
+
+.main-nav__item > a:hover,
+.main-nav__item > a:active {
+  color: white;
+  font-weight: bold;
+  border-bottom: 5px solid white;
+  padding: 3px;
+}
+
+.main-nav__item--cta > a {
+  color: white;
+  background: red;
+  padding: 8px 16px;
+  border-radius: 8px;
+}
+
+.main-nav__item--cta > a:hover,
+.main-nav__item--cta > a:active {
+  color: red;
+  background: white;
+  border: none;
 }
 
 .main-nav__items {
