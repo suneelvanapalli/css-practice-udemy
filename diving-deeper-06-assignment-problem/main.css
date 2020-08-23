@@ -1,0 +1,27 @@
+html,
+body {
+  height: 100%;
+}
+
+.box {
+  padding: 5px 10px 5px 10px;
+  /* margin: 5px 10px 5px 10px; */
+  border: 4px solid green;
+  display: inline-block;
+  height: 300px;
+  width: 48%;
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+
+
+/* div + div:hover {
+  background-color: red;
+} */
+
+
+
+div:last-of-type:hover {
+  border-color: red;
+}
