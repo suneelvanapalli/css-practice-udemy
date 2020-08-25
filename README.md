@@ -2,6 +2,12 @@
 
 This is practice project, will be developed following the css course in udemy
 
+# 25-08-2020 assignment
+- class selectors are better than id selectors
+- do not use !important
+- :not psudeo selector
+- browser support
+
 # 23-08-2020 assignment
 - margin overlapping between block level elements
 - using box-sizing for height to not include margin or padding
