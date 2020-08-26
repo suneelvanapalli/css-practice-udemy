@@ -2,6 +2,11 @@
 
 This is practice project, will be developed following the css course in udemy
 
+# 26-08-2020
+- working on styling the plans, highlighting the recommended plan
+- box-shadow, border-radius
+
+
 # 25-08-2020 assignment
 - class selectors are better than id selectors
 - do not use !important
