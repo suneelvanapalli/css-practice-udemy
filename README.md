@@ -2,6 +2,13 @@
 
 This is practice project, will be developed following the css course in udemy
 
+# 27-08-2020
+- setting outline, override browser default
+- list style to none to hide buller points for ul > li
+- cursor pointer for button hover
+- styling the plans(project)
+
+
 # 26-08-2020
 - working on styling the plans, highlighting the recommended plan
 - box-shadow, border-radius

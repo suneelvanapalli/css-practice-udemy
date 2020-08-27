@@ -47,6 +47,51 @@ body {
   border-radius: 8px;
 }
 
+.plan--higlighted .plan__title {
+  color: white;
+}
+
+.plan--higlighted .plan__price {
+  color: darkgreen;
+}
+
+.plan__title {
+  color: darkgreen;
+}
+
+.plan__price {
+  color: grey;
+}
+
+.plan__features {
+  list-style: none;
+  padding: 0px;
+  padding: 0px;
+}
+
+.plan__features li {
+  margin: 8px 0;
+}
+
+.button {
+  background-color: darkgreen;
+  color: white;
+  font: inherit;
+  border: 2px solid darkgreen;
+  padding: 16px;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.button:hover{
+  background-color: white;
+  color: darkgreen;
+}
+
+.button:focus {
+  outline: none;
+}
+
 #title h1 {
   color: #000;
 }
