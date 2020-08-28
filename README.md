@@ -2,6 +2,11 @@
 
 This is practice project, will be developed following the css course in udemy
 
+# 28-08-2020
+- key-features section
+- circle with border-radius 50%
+- 
+
 # 27-08-2020
 - setting outline, override browser default
 - list style to none to hide buller points for ul > li

@@ -83,7 +83,7 @@ body {
   font-weight: bold;
   cursor: pointer;
 }
-.button:hover{
+.button:hover {
   background-color: white;
   color: darkgreen;
 }
@@ -98,6 +98,45 @@ body {
 
 .sub-heading {
   color: grey;
+}
+
+#key-feature {
+  background: #ff1b68;
+}
+
+#key-feature > .section-title {
+  color: white;
+  margin-top: 80px;
+  padding: 16px;
+}
+
+.key-feature__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* #key-feature > ul > li { */
+.key-feature {
+  width: 30%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.key-feature__image {
+  background: white;
+  height: 128px;
+  width: 128px;
+  border-radius: 50%;
+  border: 2px solid grey;
+  margin: 0 auto;
+}
+
+.key-feature__description {
+  font: 20px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
 }
 
 /* 
