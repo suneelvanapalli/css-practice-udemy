@@ -1,3 +1,12 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-family: 'Antic Slab', serif;
+}
+
 .main-header {
   padding: 10px;
   background-color: #2ddf5c;

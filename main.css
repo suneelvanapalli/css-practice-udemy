@@ -1,12 +1,3 @@
-* {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
-}
-
-body {
-  font-family: 'Antic Slab', serif;
-}
-
 #product-overview {
   background: url("freedom.jpg");
   width: 100%;

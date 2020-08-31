@@ -1,0 +1,52 @@
+main {
+  margin-top: 32px;
+}
+
+.package {
+  background-color: rgba(213, 255, 220, 0.95);
+  border: 2px solid darkgreen;
+  border-left: none;
+  padding: 20px;
+  margin-top: 10px;
+  width: 70%;
+
+  &:hover,
+  &:active {
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    border: 2px solid red;
+  }
+
+  > a {
+    text-decoration: none;
+    display: block;
+    color: inherit;
+    padding: 32px;
+  }
+
+  &__heading {
+    color: black;
+    font-weight: bold;
+  }
+
+  &__subheading {
+    color: grey;
+    font-weight: bold;
+  }
+
+  &__description {
+    background-color: white;
+    padding: 10px;
+    border: 1px solid darkgreen;
+    color: green;
+    font: 20px;
+  }
+}
+
+.package.active {
+  background-color: rgba(14, 79, 31, 0.95);
+
+  &__heading {
+    color: white;
+    font-weight: bold;
+  }
+}

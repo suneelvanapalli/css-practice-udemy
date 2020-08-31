@@ -2,39 +2,51 @@
 
 This is practice project, will be developed following the css course in udemy
 
+# 31-08-2020
+
+- packages page styles
+
+# 30-08-2020
+
+- Convert css to SASS
+- Added SASS live compiler to vs code
+
 # 29-08-2020
+
 - footer styles
 - packages page
 - move shared styles to shared.css
 
 # 28-08-2020
+
 - key-features section
-- circle with border-radius 50% 
+- circle with border-radius 50%
 
 # 27-08-2020
+
 - setting outline, override browser default
 - list style to none to hide buller points for ul > li
 - cursor pointer for button hover
 - styling the plans(project)
 
-
 # 26-08-2020
+
 - working on styling the plans, highlighting the recommended plan
 - box-shadow, border-radius
 
-
 # 25-08-2020 assignment
+
 - class selectors are better than id selectors
 - do not use !important
 - :not psudeo selector
 - browser support
 
 # 23-08-2020 assignment
+
 - margin overlapping between block level elements
 - using box-sizing for height to not include margin or padding
-- using psudeo class:hover, 
+- using psudeo class:hover,
 - for some reaason div:last-of-type:hover didn't work
-
 
 # (21-22)-08-2020
 
