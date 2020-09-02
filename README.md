@@ -2,6 +2,10 @@
 
 This is practice project, will be developed following the css course in udemy
 
+# 02-09-2020
+- float: right clear:both
+- 
+
 # 31-08-2020
 
 - packages page styles

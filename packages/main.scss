@@ -2,6 +2,11 @@ main {
   margin-top: 32px;
 }
 
+.clearfix{ 
+  clear: both;
+}
+
+
 .package {
   background-color: rgba(213, 255, 220, 0.95);
   border: 2px solid darkgreen;
@@ -50,3 +55,18 @@ main {
     font-weight: bold;
   }
 }
+
+
+#free {
+  float: right;
+  text-align: right;
+  border-right: none;
+  border: 2px solid darkgreen;
+}
+
+
+#free:hover{
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    border: 2px solid red;
+}
+
